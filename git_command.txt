@@ -1,0 +1,26 @@
+40  git ststus
+   41  git clear
+   42  clear
+   43  git status
+   44  git ststus
+   45  git status
+   46  5git init
+   47  git init
+   48  clear
+   49  git status
+   50  clear
+   51  git add te
+   52  git add test
+   53  clear
+   54  git add testing.py
+   55  git status
+   56  git rm --cached
+   57  git status
+   58  clear
+   59  git status
+   60  git commit -m "added testing file"
+   61  git status
+   62  rm testing.py
+   63  clear
+   64  git status
+   65  git restore testing.py
