@@ -23,7 +23,6 @@
    62  rm testing.py
    63  clear
    64  git status
-<<<<<<< HEAD
    81  git add .
    82  git commit -m "first commit"
    83  git push origin master
@@ -39,8 +38,5 @@
    93  git branch
    94  git push origin master
    95  clear
-   96  history
-=======
-   65  git restore testing.py
-gaurav do some changes
->>>>>>> 4dc4a75274fe11fc174856c1582454d9927f14c4
+   96  historyccl
+   jcacbabhcajjcnakjbcsbcnjakbvdnwbvisavdui
