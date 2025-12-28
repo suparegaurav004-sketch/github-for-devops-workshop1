@@ -23,4 +23,19 @@
    62  rm testing.py
    63  clear
    64  git status
-   65  git restore testing.py
+   81  git add .
+   82  git commit -m "first commit"
+   83  git push origin master
+   84  git push -u main
+ 
+
+   87  git add .
+   88  git commit -m "First commit"
+   89  git branch
+   90  git push origin master
+   91  clear
+   92  git status
+   93  git branch
+   94  git push origin master
+   95  clear
+   96  history
